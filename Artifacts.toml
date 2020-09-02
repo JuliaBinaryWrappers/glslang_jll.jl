@@ -1,0 +1,252 @@
+[[glslang]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "dd4c01cacc433e8c30d1c190e1f79dea5af430bd"
+libc = "glibc"
+os = "linux"
+
+    [[glslang.download]]
+    sha256 = "4f3dcd9929058c4d25765702d3cca4f7542983ebced780f1d1dbb39715a2ec7b"
+    url = "https://github.com/JuliaBinaryWrappers/glslang_jll.jl/releases/download/glslang-v8.13.3743+0/glslang.v8.13.3743.aarch64-linux-gnu-cxx03.tar.gz"
+[[glslang]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "33b21761b0270ccc644a4f3ff9deee75dd7275e5"
+libc = "glibc"
+os = "linux"
+
+    [[glslang.download]]
+    sha256 = "3596b87941988de6fd8d0a817d02e8b0345b2394b3d5028273475ce57e167c89"
+    url = "https://github.com/JuliaBinaryWrappers/glslang_jll.jl/releases/download/glslang-v8.13.3743+0/glslang.v8.13.3743.aarch64-linux-gnu-cxx11.tar.gz"
+[[glslang]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "e1cc9831ec9189fc3b8060839aaf2d64d0ecdbc6"
+libc = "musl"
+os = "linux"
+
+    [[glslang.download]]
+    sha256 = "b9ad5827f81cb145bd8e0e2d9e421c07036a10cd43c4ed5e9ed16afc63f259e9"
+    url = "https://github.com/JuliaBinaryWrappers/glslang_jll.jl/releases/download/glslang-v8.13.3743+0/glslang.v8.13.3743.aarch64-linux-musl-cxx03.tar.gz"
+[[glslang]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "025f3c7b27aaccb758eb79ed38ea5e122a20cd7e"
+libc = "musl"
+os = "linux"
+
+    [[glslang.download]]
+    sha256 = "000acbce4ae5d32f9f651d15fce8e439a157a5c3b543fd1d1dd36d688025c70f"
+    url = "https://github.com/JuliaBinaryWrappers/glslang_jll.jl/releases/download/glslang-v8.13.3743+0/glslang.v8.13.3743.aarch64-linux-musl-cxx11.tar.gz"
+[[glslang]]
+arch = "armv7l"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "a2de96fd92b586532d843c04376ca8e194efc2b1"
+libc = "glibc"
+os = "linux"
+
+    [[glslang.download]]
+    sha256 = "0fd168513f1c0639c9b265b8cc708b47ed278b24ef2d3f36f115079d7241b11d"
+    url = "https://github.com/JuliaBinaryWrappers/glslang_jll.jl/releases/download/glslang-v8.13.3743+0/glslang.v8.13.3743.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[glslang]]
+arch = "armv7l"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "13f998a165c5bcc8161fa1ac183aa00612bb2421"
+libc = "glibc"
+os = "linux"
+
+    [[glslang.download]]
+    sha256 = "7868232697f722cd3fc846dd7c01075dd7d6a60c900ff563e72ddcc3a1133916"
+    url = "https://github.com/JuliaBinaryWrappers/glslang_jll.jl/releases/download/glslang-v8.13.3743+0/glslang.v8.13.3743.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[glslang]]
+arch = "armv7l"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "1495453dfbb1b10735b39dae812169521baf66c6"
+libc = "musl"
+os = "linux"
+
+    [[glslang.download]]
+    sha256 = "91e90404026e400d213ae1ab1051add6536a2345892b8d646ccdf2a280a44b7e"
+    url = "https://github.com/JuliaBinaryWrappers/glslang_jll.jl/releases/download/glslang-v8.13.3743+0/glslang.v8.13.3743.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[glslang]]
+arch = "armv7l"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "8a8f8c484042d8d6841c36d43a79e1a1bcafe6ff"
+libc = "musl"
+os = "linux"
+
+    [[glslang.download]]
+    sha256 = "9682ec471bdb8b01626d4fd08747904b8db6932549f5cafc4485bc99cb265483"
+    url = "https://github.com/JuliaBinaryWrappers/glslang_jll.jl/releases/download/glslang-v8.13.3743+0/glslang.v8.13.3743.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[glslang]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "d42abb932e2cbb5c8f7a827e04881364ea07ab9b"
+libc = "glibc"
+os = "linux"
+
+    [[glslang.download]]
+    sha256 = "061c864bf1fc9f15772f455bcb604f9bf67383ab13fcad8d45b897396cc7b740"
+    url = "https://github.com/JuliaBinaryWrappers/glslang_jll.jl/releases/download/glslang-v8.13.3743+0/glslang.v8.13.3743.i686-linux-gnu-cxx03.tar.gz"
+[[glslang]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "4c0f9ac4c1245b5b48be753f5c00abfab15177ce"
+libc = "glibc"
+os = "linux"
+
+    [[glslang.download]]
+    sha256 = "7666d66c6f76cbb7c0a5830c8bb75037d98d85761487f0312df5d04828f9d733"
+    url = "https://github.com/JuliaBinaryWrappers/glslang_jll.jl/releases/download/glslang-v8.13.3743+0/glslang.v8.13.3743.i686-linux-gnu-cxx11.tar.gz"
+[[glslang]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "f0eaf88694a5c74b23edd484744803fa2c6bc78e"
+libc = "musl"
+os = "linux"
+
+    [[glslang.download]]
+    sha256 = "d4504d4f8e5362825509deaa8a027f76afd075464d08ad0e70e4f26dec83aaa1"
+    url = "https://github.com/JuliaBinaryWrappers/glslang_jll.jl/releases/download/glslang-v8.13.3743+0/glslang.v8.13.3743.i686-linux-musl-cxx03.tar.gz"
+[[glslang]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "59f2c9f2e12b9d993de7bd60581b80d5411e3afb"
+libc = "musl"
+os = "linux"
+
+    [[glslang.download]]
+    sha256 = "b1761f0f932a4dbc12e993690fee6f5c0e075085015c001f4582b249fa7a806a"
+    url = "https://github.com/JuliaBinaryWrappers/glslang_jll.jl/releases/download/glslang-v8.13.3743+0/glslang.v8.13.3743.i686-linux-musl-cxx11.tar.gz"
+[[glslang]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "2fcb1208344948ce24229e46515f903f86c5ce18"
+os = "windows"
+
+    [[glslang.download]]
+    sha256 = "8c5d768c29e65742e9319c38fa7da69e046eb4c177245f67b1b5fd5e5c2bfa68"
+    url = "https://github.com/JuliaBinaryWrappers/glslang_jll.jl/releases/download/glslang-v8.13.3743+0/glslang.v8.13.3743.i686-w64-mingw32-cxx03.tar.gz"
+[[glslang]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f3c4623e74aa0f21839ade9320e3ac5b36be288a"
+os = "windows"
+
+    [[glslang.download]]
+    sha256 = "5ec584b5ec23049dc2f2fd88cc51ff9a5865e2ad03dd015fbe0ff88ba319ac23"
+    url = "https://github.com/JuliaBinaryWrappers/glslang_jll.jl/releases/download/glslang-v8.13.3743+0/glslang.v8.13.3743.i686-w64-mingw32-cxx11.tar.gz"
+[[glslang]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "4e24799dbd49c428e9c71f3ee23015e03141559f"
+libc = "glibc"
+os = "linux"
+
+    [[glslang.download]]
+    sha256 = "0fc7ae6ed0aaf251b29db68c6b6dd791fbc32be2b8e910888ff93a67d2be4465"
+    url = "https://github.com/JuliaBinaryWrappers/glslang_jll.jl/releases/download/glslang-v8.13.3743+0/glslang.v8.13.3743.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[glslang]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "537e461ed9cb3170d15e369a89fecdfa92afd93f"
+libc = "glibc"
+os = "linux"
+
+    [[glslang.download]]
+    sha256 = "03b0326e3a4118da29521916620200fa10a8992132395e503ee0e1c18e0eac37"
+    url = "https://github.com/JuliaBinaryWrappers/glslang_jll.jl/releases/download/glslang-v8.13.3743+0/glslang.v8.13.3743.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[glslang]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "eda3b35a7905fa79d10b77b329ec2c6b56caa143"
+os = "macos"
+
+    [[glslang.download]]
+    sha256 = "88b4b1c32ea89d57e9da2db77a61921f794a5eb071bb32840e5868430230f5c1"
+    url = "https://github.com/JuliaBinaryWrappers/glslang_jll.jl/releases/download/glslang-v8.13.3743+0/glslang.v8.13.3743.x86_64-apple-darwin14-cxx03.tar.gz"
+[[glslang]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "1c072085b8f52135598f53b989ed568ea581a9e7"
+os = "macos"
+
+    [[glslang.download]]
+    sha256 = "6cd96e0c65cc8fd7e6d7e139daa23c64608445095703892f5e8b89e8265f18e0"
+    url = "https://github.com/JuliaBinaryWrappers/glslang_jll.jl/releases/download/glslang-v8.13.3743+0/glslang.v8.13.3743.x86_64-apple-darwin14-cxx11.tar.gz"
+[[glslang]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "19e40c20bd7977344142a6d4ae443a37710fd6a2"
+libc = "glibc"
+os = "linux"
+
+    [[glslang.download]]
+    sha256 = "07d211b1ca0758f566d93482d57d0aa5a7d19c8ab1b8cfcf4baef4c5e21e9ca5"
+    url = "https://github.com/JuliaBinaryWrappers/glslang_jll.jl/releases/download/glslang-v8.13.3743+0/glslang.v8.13.3743.x86_64-linux-gnu-cxx03.tar.gz"
+[[glslang]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "259ce5819d583323500f3f309434e9153ddfc406"
+libc = "glibc"
+os = "linux"
+
+    [[glslang.download]]
+    sha256 = "d8a5d0d0f19eeebf6b4ba1fa7451552aa0743e14845aba4f08ed1517bd0d3676"
+    url = "https://github.com/JuliaBinaryWrappers/glslang_jll.jl/releases/download/glslang-v8.13.3743+0/glslang.v8.13.3743.x86_64-linux-gnu-cxx11.tar.gz"
+[[glslang]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "dcd01a314e65fbc482faf7ef277857bed02d364a"
+libc = "musl"
+os = "linux"
+
+    [[glslang.download]]
+    sha256 = "92be8e8d4b197b8b2d53015435dd0f1c6498dc38d98c100fd6883c67924d42d8"
+    url = "https://github.com/JuliaBinaryWrappers/glslang_jll.jl/releases/download/glslang-v8.13.3743+0/glslang.v8.13.3743.x86_64-linux-musl-cxx03.tar.gz"
+[[glslang]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "85ab85d641f48c48cb7d6da59b622988e76fa294"
+libc = "musl"
+os = "linux"
+
+    [[glslang.download]]
+    sha256 = "4d459b9eb861ce2e65009b75684e0a51862d87e492c311926914c42076299d22"
+    url = "https://github.com/JuliaBinaryWrappers/glslang_jll.jl/releases/download/glslang-v8.13.3743+0/glslang.v8.13.3743.x86_64-linux-musl-cxx11.tar.gz"
+[[glslang]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "b0eb95f70fe53ee8dadf410dfd4bb98ed14f5709"
+os = "freebsd"
+
+    [[glslang.download]]
+    sha256 = "67103e622df0cd72abece3dab76bbe49c1c5c381e95f3f7aab21043145b51bb2"
+    url = "https://github.com/JuliaBinaryWrappers/glslang_jll.jl/releases/download/glslang-v8.13.3743+0/glslang.v8.13.3743.x86_64-unknown-freebsd11.1-cxx03.tar.gz"
+[[glslang]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "7376b474084bbe4171db2b0c5e23cebde7ac4f65"
+os = "freebsd"
+
+    [[glslang.download]]
+    sha256 = "79b4b9b00fda5b7885e82c589f39712ae90d8f2b50e8dc269f38b838c046e4eb"
+    url = "https://github.com/JuliaBinaryWrappers/glslang_jll.jl/releases/download/glslang-v8.13.3743+0/glslang.v8.13.3743.x86_64-unknown-freebsd11.1-cxx11.tar.gz"
+[[glslang]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "cf73fb6de51ce5d0e2b79515f91cfc6ab59fbb39"
+os = "windows"
+
+    [[glslang.download]]
+    sha256 = "7527a1f672ac9da7fb402c02729253645ad593bb5e0a229147f558ac5891ac14"
+    url = "https://github.com/JuliaBinaryWrappers/glslang_jll.jl/releases/download/glslang-v8.13.3743+0/glslang.v8.13.3743.x86_64-w64-mingw32-cxx03.tar.gz"
+[[glslang]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d80e5c5b38a91fbeed21fab33328ea7f4e3dd5d2"
+os = "windows"
+
+    [[glslang.download]]
+    sha256 = "d373da0ea1b9e71a5252b6fc009ed42fd54c71140323e84fc4862e008627583e"
+    url = "https://github.com/JuliaBinaryWrappers/glslang_jll.jl/releases/download/glslang-v8.13.3743+0/glslang.v8.13.3743.x86_64-w64-mingw32-cxx11.tar.gz"
